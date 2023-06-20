@@ -1,0 +1,12 @@
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\bin\Debug\net6.0\Domain.dll
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\bin\Debug\net6.0\Domain.pdb
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.dll
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\refint\Domain.dll
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\Domain.pdb
+F:\Architecture\Shaun\OnionArchitectureAndCQRSDemo\Domain\obj\Debug\net6.0\ref\Domain.dll
